@@ -1,0 +1,3 @@
+C:/Users/13788/Desktop/Desk_Folder/Cppfile/VScode/c++ primer_test/build/CMakeFiles/edit_cache.dir
+C:/Users/13788/Desktop/Desk_Folder/Cppfile/VScode/c++ primer_test/build/CMakeFiles/main.dir
+C:/Users/13788/Desktop/Desk_Folder/Cppfile/VScode/c++ primer_test/build/CMakeFiles/rebuild_cache.dir

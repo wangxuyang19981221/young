@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/13788/Desktop/Desk_Folder/Cppfile/VScode/c++ primer_test/5_2x.cpp
+vector
+-
+iostream
+-
+fstream
+-
+sstream
+-
+
